@@ -4,4 +4,4 @@ An assessed submission from my MSc Acoustics course at the University of Edinbur
 
 
 ## Full report (PDF)
-file:///C:/Users/User/Downloads/Acoustics%20Project%20Report%20_%20Room%20Acoustics.pdf
+https://github.com/hrishikeshnraj16/Room-Acoustics-Project---Impulse-Response-measurement/blob/77ff35fe1880642c4e7331c26b19410f13defe38/Acoustics%20Project%20Report%20_%20Room%20Acoustics.pdf
