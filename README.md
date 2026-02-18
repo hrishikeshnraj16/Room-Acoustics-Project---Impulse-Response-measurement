@@ -4,4 +4,4 @@ An assessed submission from my MSc Acoustics course at the University of Edinbur
 
 
 ## Full report (PDF)
-[Download the report](./Hrishikesh_Raj_Room_Impulse_Response_Study.pdf)
+Acoustics Project Report _ Room Acoustics.pdf
